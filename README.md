@@ -47,7 +47,7 @@ Once the bot is running, you can use the following commands in your Discord serv
 !volume <value>: Sets the volume (0-100).
 ```
 ## Contributing
-Contributions are welcome! If you would like to contribute to the development of the Bank Management System, please follow these steps:
+Contributions are welcome! If you would like to contribute to the development of the Discord Music Bot, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
